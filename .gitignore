@@ -1,0 +1,12 @@
+# Node modules
+backend/node_modules/
+backend/package-lock.json
+frontend/node_modules/
+frontend/package-lock.json
+
+# Python
+backend/__pycache__/
+*.pyc
+*.pyo
+.env
+myenv/
