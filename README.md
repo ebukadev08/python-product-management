@@ -57,7 +57,7 @@ FastApi-Python/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git https://github.com/ebukadev08/python-product-management.git
 cd your-repo-name
 ```
 
@@ -105,6 +105,8 @@ App will be available at `http://localhost:3000`
 ## 🖼️ Screenshots
 
 > _Add screenshots of your app here_
+> ![alt text](image.png)
+
 
 ---
 
